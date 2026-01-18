@@ -23,7 +23,7 @@ This repository contains the complete machine learning analysis conducted for Cl
 - `scripts/`: Reusable Python scripts for preprocessing and modeling
 - `visuals/`: Saved figures and model outputs
 - `presentation/`: Final stakeholder presentation
-- `docs/`: Written exercise summaries
+- `reports/`: Written exercise summaries
 
 ## Key Findings
 - Temperature-related variables were the strongest predictors of extreme weather classes
